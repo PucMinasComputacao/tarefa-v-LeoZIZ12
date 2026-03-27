@@ -15,8 +15,8 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 - Breve descrição sobre seu projeto: Eu fiz uma home page pro site do restaurante da minha mãe e uma pagina sobre nos, alem de um menu na home page com nossos principais produtos.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
+<img width="2934" height="1596" alt="image" src="https://github.com/user-attachments/assets/5f9d078e-07d2-40ba-a5ef-cec7984ecefb" />
 
-<<  COLOQUE A IMAGEM AQUI >>
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
