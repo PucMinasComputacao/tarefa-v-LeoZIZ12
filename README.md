@@ -9,10 +9,10 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Leonardo Martins Macedo
+- Matricula: 908180
+- Proposta de projeto escolhida: Site para o restaurante da minha mae
+- Breve descrição sobre seu projeto: Eu fiz uma home page pro site do restaurante da minha mãe e uma pagina sobre nos, alem de um menu na home page com nossos principais produtos.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
@@ -20,7 +20,8 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+
+<img width="2436" height="1476" alt="image" src="https://github.com/user-attachments/assets/1105b7db-4641-443d-bbc7-7659b242f756" />
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
